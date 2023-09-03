@@ -6,3 +6,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8BEF7&center=true&vCenter=true&width=500&height=60&lines=Always+learning+new+things;Coding+and+new+tech+excite+me+immensely" alt="Typing SVG" /></a>
 </p> 
+- 🏢 I'm a student at Faculty of Sciences and Techniques of Tangier (FSTT)
+- 👨‍💻 As a ALX SE student, I'm constantly learning and exploring new technologies to improve my skills.
+
+<!-- Social icons section -->
+<p align="center">
+<a href="https://www.linkedin.com/in/soufiane-zaari/" target="_blank"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format.png"/> </a>
