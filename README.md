@@ -14,10 +14,10 @@
 <!-- Social icons section -->
 <p align="left">
 <a href="https://www.linkedin.com/in/soufiane-zaari/" target="_blank">
-  <img src="https://img.icons8.com/?size=40&id=xuvGCOXi8Wyg&format.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format.png" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/soufiane_z03" target="_blank">
-  <img src="https://icons8.com/icon/phOKFKYpe00C/twitterx" alt="Twitter"/>
+  <img src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format.png" alt="Twitter"/>
 </a>
   
 </p>
