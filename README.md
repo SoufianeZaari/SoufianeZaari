@@ -11,4 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/soufiane-zaari/" target="_blank"><img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format.png"/> </a>
+<a href="https://www.linkedin.com/in/soufiane-zaari/" target="_blank">
+  <img src="https://img.icons8.com/?size=32&id=xuvGCOXi8Wyg&format.png" alt="LinkedIn"/>
+</a>
+</p>
