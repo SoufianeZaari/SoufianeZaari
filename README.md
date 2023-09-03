@@ -9,6 +9,7 @@
 
 - 🏢 I'm a student at Faculty of Sciences and Techniques of Tangier (FSTT).
 - 👨‍💻 As a ALX SE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 📫 How to reach me **zaarisoufian8@gmail.com** or **zari.soufiane@etu.uae.ac.ma**
 
 ### Connect with Me :
 <!-- Social icons section -->
