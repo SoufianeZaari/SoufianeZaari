@@ -1,5 +1,5 @@
 <img width="250" align="right" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
-<h3 align="text-align: center; margin-left: 10px;">
+<h3 align="text-align: center; margin-right: 5px;">
   Welcome to Soufiane Zaari's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
