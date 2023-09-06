@@ -7,7 +7,7 @@
 <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C8BEF7&center=true&vCenter=true&width=500&height=60&lines=Always+learning+new+things;Coding+and+new+tech+excite+me+immensely" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a student at Faculty of Sciences and Techniques of Tangier (FSTT).
+- 🏢 I'm a student at Faculty of Sciences and Technologies of Tangier (FSTT).
 - 👨‍💻 As a ALX SE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **zaarisoufian7@gmail.com** or **zari.soufiane@etu.uae.ac.ma**
 
