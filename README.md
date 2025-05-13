@@ -14,7 +14,7 @@
 ### Connect with Me :
 <!-- Social icons section -->
 <p align="left">
-<a href="https://www.linkedin.com/in/soufiane-zaari/" target="_blank">
+<a href="https://www.linkedin.com/in/soufianezaari/" target="_blank">
   <img src="https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format.png" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/soufiane_z03" target="_blank">
