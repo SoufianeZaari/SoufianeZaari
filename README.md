@@ -1,50 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=24292e&center=true&vCenter=true&width=600&lines=Soufiane+Zaari;Data+Analyst;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=500&size=22&pause=1000&color=33FF00&background=0D1117&center=true&vCenter=true&width=800&lines=soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$;./fetch_data_analyst.sh" alt="Terminal SVG" />
 </div>
 
-<br>
+```text
+soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$ cat whoami.txt
+Loading profile...
+[NAME]      Soufiane Zaari
+[ROLE]      Junior Data Analyst
+[EDU]       Bachelor's in Data Analysis (FST Tangier)
+[LEAD]      President & Co-founder, Future Tech Club
+[MISSION]   Transforming raw datasets into actionable insights.
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Who I Am</h3>
-      I transform raw datasets into actionable intelligence. With a foundation in Mathematics & Computer Science, I bridge the gap between complex algorithms and clear, business-driven visualizations.<br><br>
-      <b>🎓 Education:</b> Bachelor's in Data Analysis (FST Tangier)<br>
-      <b>💡 Leadership:</b> President, Future Tech Club<br><br>
-      <a href="mailto:zari.soufiane@etu.uae.ac.ma"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://www.linkedin.com/in/soufianezaari"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,linux&perline=4" /><br><br>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-</table>
+soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$ python3 -m check_skills
+Fetching arsenal...
+=> Python (Pandas, NumPy, Scikit-Learn) ███████████████████ 100%
+=> SQL (MySQL, SQLite)                  ███████████████████ 100%
+=> Power BI & Data Viz                  ████████████████░░░  85%
+=> Git, GitHub & Linux Environ          ████████████████░░░  85%
 
-<br>
+soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$ ls -la projects/
+total 32
+drwxr-xr-x 2 soufiane data_analysts 4096 Mar 09 10:00 Trade_Deficit_Morocco_Turkey
+drwxr-xr-x 2 soufiane data_analysts 4096 Mar 03 14:20 UniSchedule_PyQt6
+drwxr-xr-x 2 soufiane data_analysts 4096 Feb 28 09:15 IMDB_Score_Prediction
+drwxr-xr-x 2 soufiane data_analysts 4096 Feb 15 11:30 Social_Network_Analysis
 
-<table align="center" width="100%">
-  <tr>
-    <td width="100%">
-      <h3>🚀 Featured Data Projects</h3>
-      <ul>
-        <li><b>Morocco vs Turkey Trade Deficit:</b> Extracted and analyzed international trade data from TradeMap using Python (Pandas, Plotly) to visualize economic disparities.</li>
-        <li><b>UniSchedule:</b> Engineered an automated university scheduling system with real-time conflict detection (Python, PyQt6, SQLite).</li>
-        <li><b>IMDB Movie Score Prediction:</b> Designed regression models utilizing feature engineering to forecast movie ratings based on historical trends.</li>
-        <li><b>Social Network Analysis:</b> Calculated graph metrics and implemented community detection algorithms using NetworkX.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$ cat projects/Trade_Deficit_Morocco_Turkey/readme.md
+> Python (Pandas, Plotly)
+> Extracted and analyzed international trade data from TradeMap to visualize 
+> economic disparities and trade balances.
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeZaari&layout=compact&theme=transparent&hide_border=true&title_color=24292e&text_color=24292e" alt="Top Languages" />
-</div>
+soufiane@soufiane-ThinkPad-X1-Carbon-Gen-9:~$ ./contact_protocol.sh
+Initiating handshake...
+[Email]    zari.soufiane@etu.uae.ac.ma
+[LinkedIn] [https://linkedin.com/in/soufianezaari](https://linkedin.com/in/soufianezaari)
