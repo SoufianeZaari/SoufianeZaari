@@ -1,60 +1,54 @@
-# 👋 Hi, I'm Soufiane Zaari
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Soufiane+Zaari;Junior+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
+</p>
 
-🎯 Junior Data Analyst  
-📍 Tangier, Morocco  
-📊 Python | SQL | Power BI  
-
-📧 Email: zari.soufiane@etu.uae.ac.ma  
-🔗 LinkedIn: https://www.linkedin.com/in/soufianezaari  
-
----
-
-## 🧠 About Me
-Junior Data Analyst passionate about transforming raw data into actionable insights.  
-I work with **Python, SQL, Power BI**, and machine learning techniques to analyze, visualize, and model data.  
-Currently seeking a **Data Analyst internship**.
+<p align="center">
+  <a href="mailto:zari.soufiane@etu.uae.ac.ma">Email</a> •
+  <a href="https://www.linkedin.com/in/soufianezaari">LinkedIn</a>
+</p>
 
 ---
 
-## 🛠 Technical Skills
-- **Data Analysis:** Python (Pandas, NumPy), SQL, Power BI  
-- **Machine Learning:** Scikit-learn  
-- **Visualization:** Matplotlib  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, GitHub, PyQt6, Laravel  
+## About
+Junior Data Analyst focused on data analysis, visualization, and predictive modeling.  
+I work with Python, SQL, and Power BI to transform raw data into insights.  
+Currently seeking a Data Analyst internship.
 
 ---
 
-## 🚀 Featured Projects
-
-### 📘 UniSchedule – University Timetable System
-**Python | PyQt6 | SQLite**  
-- MVC architecture with Facade pattern  
-- Real-time conflict detection  
-- Automated PDF & CSV management  
-
-### 🌐 Social Network Analysis
-**Python | NetworkX | Scikit-learn**  
-- Graph centrality metrics  
-- PCA & t-SNE for community detection  
-
-### 🎬 IMDB Movie Score Prediction
-**Python | Pandas | Scikit-learn**  
-- Dataset of 50,000+ movies  
-- Feature engineering & regression models  
+## Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI
+- Data Visualization
+- MySQL, SQLite
+- Git & GitHub
 
 ---
 
-## 🎓 Education
-- **Bachelor’s in Data Analysis** — FST Tangier (2025–Present)  
-- **DEUST in Mathematics & Computer Science** — FST Tangier (2022–2025)  
+## Projects
+
+**UniSchedule – University Timetable System**  
+Python, PyQt6, SQLite  
+- Conflict detection and scheduling automation  
+- MVC architecture  
+
+**Social Network Analysis**  
+Python, NetworkX  
+- Graph metrics and community detection  
+
+**IMDB Movie Score Prediction**  
+Python, Scikit-learn  
+- Feature engineering and regression models  
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SoufianeZaari&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeZaari&layout=compact&theme=tokyonight)
+## Education
+Bachelor’s in Data Analysis — FST Tangier  
+DEUST in Mathematics & Computer Science — FST Tangier
 
 ---
 
-✨ *Always learning. Always building.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoufianeZaari&show_icons=true&hide_border=true" />
+</p>
