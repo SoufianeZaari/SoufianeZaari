@@ -1,53 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=800&lines=import+pandas+as+pd;SELECT+*+FROM+Data_Analysts+WHERE+Name='Soufiane_Zaari';df.describe(Soufiane)" alt="Code Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="mailto:zari.soufiane@etu.uae.ac.ma"><b>✉️ Email</b></a> •
-  <a href="https://www.linkedin.com/in/soufianezaari"><b>🔗 LinkedIn</b></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=24292e&center=true&vCenter=true&width=600&lines=Soufiane+Zaari;Data+Analyst;Problem+Solver" alt="Typing SVG" />
+</div>
 
 <br>
 
-### 📊 Executive Summary
-> **Junior Data Analyst** | Bachelor's in Data Analysis (FST Tangier) & President of Future Tech Club.
-> Transforming raw datasets into strategic insights. I bridge the gap between mathematics and actionable business intelligence using Python, SQL, and Power BI. 
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Who I Am</h3>
+      I transform raw datasets into actionable intelligence. With a foundation in Mathematics & Computer Science, I bridge the gap between complex algorithms and clear, business-driven visualizations.<br><br>
+      <b>🎓 Education:</b> Bachelor's in Data Analysis (FST Tangier)<br>
+      <b>💡 Leadership:</b> President, Future Tech Club<br><br>
+      <a href="mailto:zari.soufiane@etu.uae.ac.ma"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      <a href="https://www.linkedin.com/in/soufianezaari"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,linux&perline=4" /><br><br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 🧰 Technical Arsenal
+<table align="center" width="100%">
+  <tr>
+    <td width="100%">
+      <h3>🚀 Featured Data Projects</h3>
+      <ul>
+        <li><b>Morocco vs Turkey Trade Deficit:</b> Extracted and analyzed international trade data from TradeMap using Python (Pandas, Plotly) to visualize economic disparities.</li>
+        <li><b>UniSchedule:</b> Engineered an automated university scheduling system with real-time conflict detection (Python, PyQt6, SQLite).</li>
+        <li><b>IMDB Movie Score Prediction:</b> Designed regression models utilizing feature engineering to forecast movie ratings based on historical trends.</li>
+        <li><b>Social Network Analysis:</b> Calculated graph metrics and implemented community detection algorithms using NetworkX.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<br>
 
-**Data Science & Analysis:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**BI & Environment:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git_/_GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
----
-
-### 📂 Featured Data Projects
-
-**📈 Morocco vs Turkey Trade Deficit Analysis**
-> *Python (Pandas, Plotly)*
-> Extracted and analyzed international trade data from TradeMap to visualize economic disparities and trade balances.
-
-**🗓️ UniSchedule – University Timetable System**
-> *Python, PyQt6, SQLite*
-> Engineered an automated scheduling system utilizing an MVC architecture, featuring real-time conflict detection and resource allocation.
-
-**🎬 IMDB Movie Score Prediction**
-> *Python, Scikit-learn*
-> Designed a predictive regression model utilizing feature engineering to forecast movie ratings based on historical dataset trends.
-
----
-
-### 📈 GitHub Data Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoufianeZaari&bg_color=ffffff&color=0969da&line=0969da&point=24292e&area=true&hide_border=true&custom_title=Contributions%20Over%20Time" alt="Activity Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeZaari&layout=compact&theme=transparent&hide_border=true&title_color=24292e&text_color=24292e" alt="Top Languages" />
+</div>
