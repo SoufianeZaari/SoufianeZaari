@@ -105,28 +105,6 @@ class SoufianeZaari:
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/you-bj/fstt-emploi-temps">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soufianezaari&repo=UniSchedule&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/soufianezaari/IMDB-Movie-Score-Prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soufianezaari&repo=IMDB-Movie-Score-Prediction&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/soufianezaari/Data-Center-Management">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soufianezaari&repo=Data-Center-Management&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/soufianezaari/Social-Network-Analysis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soufianezaari&repo=Social-Network-Analysis&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 ---
 
 ## 🚀 Project Highlights
