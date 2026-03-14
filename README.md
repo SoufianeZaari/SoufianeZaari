@@ -490,7 +490,7 @@ timeline
 
 | Status | Goal | Target |
 |--------|------|--------|
-| ✅ | Co-found a tech club at FST Tangier | Done |
+| ✅ | Co-found a tech club | Done |
 | ✅ | Complete ALX Data Analytics Program | Done |
 | ✅ | Train children in AI — Morocco Digital 2030 | Done |
 | 🔄 | Build 3+ end-to-end Power BI dashboards | In Progress |
